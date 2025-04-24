@@ -1,0 +1,4 @@
+/home/fedor/prac6_sysprog/build/CMakeFiles/task1.dir
+/home/fedor/prac6_sysprog/build/CMakeFiles/task2.dir
+/home/fedor/prac6_sysprog/build/CMakeFiles/edit_cache.dir
+/home/fedor/prac6_sysprog/build/CMakeFiles/rebuild_cache.dir
